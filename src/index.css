@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer base {
+	:root {
+		color: #1f2937;
+		background-color: #f1f5f9;
+	}
+
+	html {
+		scroll-behavior: smooth;
+		scroll-padding-top: 5.5rem;
+	}
+
+	body {
+		margin: 0;
+		font-family: "Segoe UI", "Inter", "Helvetica Neue", Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+
+	section {
+		scroll-margin-top: 5.5rem;
+	}
+}
