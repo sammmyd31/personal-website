@@ -24,7 +24,7 @@ function Home() {
             I am a Computer Science and Game Development student at Northeastern University.
           </p>
           <p className='max-w-2xl text-base leading-relaxed text-neutral-400'>
-            I am an aspiring developer with interests in software engineering and game development. I like to build creative applications and games that solve practical problems and are enjoyable to use.
+            I am an aspiring developer with interests in game development and software engineering. I have a huge passion for video games, and I love to build things that are creative and meaningful.
           </p>
           <div className='flex flex-wrap items-center gap-3'>
             <a
