@@ -2,13 +2,14 @@
 
 @layer base {
 	:root {
-		color: #1f2937;
-		background-color: #f1f5f9;
+		color-scheme: dark;
+		color: #e5e5e5;
+		background-color: #0a0a0a;
 	}
 
 	html {
 		scroll-behavior: smooth;
-		scroll-padding-top: 5.5rem;
+		scroll-padding-top: 3.5rem;
 	}
 
 	body {
@@ -23,6 +24,6 @@
 	}
 
 	section {
-		scroll-margin-top: 5.5rem;
+		scroll-margin-top: 3.5rem;
 	}
 }
